@@ -207,6 +207,9 @@ body {
 .section.hero {
   text-align: center;
   width: 100%;
+  background-image: url("../images/hero_img.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
   background-color: var(--secondary-background-color);
   padding: 200px 0;
 }
